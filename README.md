@@ -1,4 +1,4 @@
-<h1 align="center"><b>Typescript React-Redux Starter</b></h1>
+<h1 align="center"><b>TS-React-Redux Starter</b></h1>
 </p>
 
 ## Contains
